@@ -1,0 +1,13 @@
+models/*
+!models/.gitkeep
+
+__pycache__/
+
+temp_audios/*
+!temp_audios/.gitkeep
+
+transcripts/*
+!transcripts/.gitkeep
+
+videos/*
+!videos/.gitkeep
